@@ -3,7 +3,7 @@
   src: url("../fonts/SourceSansPro.ttf");
 }
 ::selection {
-  background: #d31820;
+  background: #79adff;
   color: #fff;
 }
 body {
@@ -30,7 +30,7 @@ p {
 }
 a {
   text-decoration: none;
-  color: #d31820;
+  color: #79adff;
   cursor: pointer;
 }
 p {
@@ -100,7 +100,7 @@ h2.article-head {
   color: #34495e;
 }
 .article-head > a:hover {
-  border-bottom: 2px solid #d31820;
+  border-bottom: 2px solid #79adff;
 }
 .article-date {
   color: #7f8c8d;
@@ -285,7 +285,7 @@ h2.article-head {
   width: 40px;
   height: 40px;
   padding: 5px;
-  background-color: #d31820;
+  background-color: #79adff;
   border-radius: 20px;
   transform: translate(80px, 0);
   transition: all 0.3s ease;
@@ -318,7 +318,7 @@ h2.article-head {
   box-shadow: 0 0 3px rgba(14,14,14,0.26);
 }
 .fixed-header .home-link {
-  color: #d31820;
+  color: #79adff;
 }
 .fixed-header .menu .icon-bar {
   background-color: #7f8c8d;
@@ -352,7 +352,7 @@ h2.article-head {
   align-items: center;
   float: left;
   font-weight: 500;
-  color: #d31820;
+  color: #79adff;
   font-size: 1.5em;
   line-height: 40px;
 }
@@ -374,14 +374,14 @@ h2.article-head {
   height: 40px;
   line-height: 40px;
   text-decoration: none;
-  color: #d31820;
+  color: #79adff;
   padding-bottom: 3px;
 }
 .item-link:hover {
-  border-bottom: 3px solid #d31820;
+  border-bottom: 3px solid #79adff;
 }
 .active {
-  border-bottom: 3px solid #d31820;
+  border-bottom: 3px solid #79adff;
 }
 .menu {
   display: none;
@@ -448,7 +448,7 @@ h2.article-head {
   color: #7f8c8d;
 }
 .mobile-active {
-  color: #d31820;
+  color: #79adff;
 }
 .app-footer {
   padding: 1em 0;
@@ -540,7 +540,7 @@ h2.article-head {
 .markdown-content h4:before,
 .article-summary h4:before {
   content: "#";
-  color: #d31820;
+  color: #79adff;
   margin-right: 5px;
   font-size: 1.2em;
   font-weight: 700;
@@ -554,7 +554,7 @@ h2.article-head {
 .article-summary blockquote {
   margin: 1em 0;
   padding: 10px 20px;
-  border-left: 4px solid #d31820;
+  border-left: 4px solid #79adff;
   background: #f8f8f8;
   border-bottom-right-radius: 2px;
   border-top-right-radius: 2px;
@@ -608,7 +608,7 @@ h2.article-head {
 }
 .markdown-content > table thead,
 .article-summary > table thead {
-  background-color: #d31820;
+  background-color: #79adff;
   border-top-width: 1px;
   border-top-style: solid;
   border-top-color: #e5e5e5;
@@ -677,7 +677,7 @@ h2.article-head {
 }
 .tag-name:before {
   content: "#";
-  color: #d31820;
+  color: #79adff;
   position: absolute;
   left: -0.7em;
   top: -2px;
@@ -730,7 +730,7 @@ h2.article-head {
 }
 .category-name:before {
   content: "#";
-  color: #d31820;
+  color: #79adff;
   position: absolute;
   left: -0.7em;
   top: -2px;
@@ -752,7 +752,7 @@ h2.article-head {
   left: 30px;
   height: auto;
   content: '';
-  background-color: #d31820;
+  background-color: #79adff;
   width: 4px;
 }
 #archives #archive-title {
@@ -775,7 +775,7 @@ h2.article-head {
   background-color: #fff;
   width: 12px;
   height: 12px;
-  border: 2px solid #d31820;
+  border: 2px solid #79adff;
   border-radius: 50%;
 }
 .time-section .section-list .section-list-item {
@@ -787,7 +787,7 @@ h2.article-head {
   left: -29px;
   top: 7px;
   content: '';
-  background-color: #d31820;
+  background-color: #79adff;
   width: 10px;
   height: 10px;
   border-radius: 50%;
@@ -798,7 +798,7 @@ h2.article-head {
   font-size: 1.1em;
 }
 .time-section .section-list .section-list-item .archive-title:hover {
-  color: #d31820;
+  color: #79adff;
   padding-left: 10px;
 }
 .time-section .section-list .section-list-item .archive-date {
