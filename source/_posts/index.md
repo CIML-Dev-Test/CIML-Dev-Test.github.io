@@ -1,5 +1,6 @@
 ---
 title: Index
+banner: images/logo.png
 ---
 
 # CIML Development Website
