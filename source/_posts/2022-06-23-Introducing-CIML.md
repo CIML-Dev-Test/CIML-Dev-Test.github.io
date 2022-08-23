@@ -2,12 +2,10 @@
 title: Introducing The CIML Website
 type: Blog
 tags:
-    - Yay
-    - These
-    - Are
-    - A
-    - Few
-    - Tags :)
+    - CIML
+    - NSF
+    - ML
+    - Best Practices
 date: 2022-6-23
 ---
 

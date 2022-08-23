@@ -4,6 +4,9 @@ type: Event
 event: Summer Institute
 tags:
     - CIML
+    - NSF
+    - ML
+    - Best Practices
 date: 2022-06-22
 ---
 
