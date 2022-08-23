@@ -2,8 +2,9 @@
 title: Mary Thomas
 ---
 
-![Mary Thomas](images/MaryThomas.jpg)
-# Mary Thomas (PI)
+![Mary Thomas](images/MaryThomas.jpeg)
+
+# Mary Thomas (PI) img2
 - Ph.D.
 - Computational Data Scientist, HPC Trainer
 - SDSC
