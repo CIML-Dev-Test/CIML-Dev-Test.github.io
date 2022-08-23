@@ -1,5 +1,5 @@
 ---
-title: Introducing The CIML Website
+title: NSF Award Announced for the CIML Project 
 type: Blog
 tags:
     - CIML
