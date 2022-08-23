@@ -1,10 +1,8 @@
 ---
 title: Robert Sinkovits
-sidebar: 
-  - {name: "Our Mission", link: "mission"}
-  - {name: "The Team", link: "team"}
-  - {name: "Funding", link: "funding"}
 ---
+
+![Robert Sinkovits ](images/RobertSinkovits.jpg)
 
 # Robert Sinkovits (Co-PI)
 - Ph.D.

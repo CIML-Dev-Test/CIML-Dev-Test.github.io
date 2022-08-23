@@ -1,10 +1,7 @@
 ---
 title: Marty Kandes
-sidebar: 
-  - {name: "Our Mission", link: "mission"}
-  - {name: "The Team", link: "team"}
-  - {name: "Funding", link: "funding"}
 ---
+![Marty Kandes ](images/MartyKandes.jpg)
 
 # Marty Kandes (Co-PI)
 - Ph.D.

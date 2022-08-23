@@ -1,10 +1,8 @@
 ---
 title: Paul Rodriquez
-sidebar: 
-  - {name: "Our Mission", link: "mission"}
-  - {name: "The Team", link: "team"}
-  - {name: "Funding", link: "funding"}
 ---
+
+![Paul Rodriquez ](images/PaulRodriquez.jpg)
 
 # Paul Rodriquez
 - Ph.D.

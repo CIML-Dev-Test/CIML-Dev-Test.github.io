@@ -1,10 +1,8 @@
 ---
 title: Andreas Goetz
-sidebar: 
-  - {name: "Our Mission", link: "mission"}
-  - {name: "The Team", link: "team"}
-  - {name: "Funding", link: "funding"}
 ---
+
+![Andreas Goetz ](images/AndyGoetz.jpg)
 
 # Andreas Goetz
 - Ph.D.

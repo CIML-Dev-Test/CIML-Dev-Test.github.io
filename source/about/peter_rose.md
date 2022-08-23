@@ -1,10 +1,8 @@
 ---
 title: Peter Rose
-sidebar: 
-  - {name: "Our Mission", link: "mission"}
-  - {name: "The Team", link: "team"}
-  - {name: "Funding", link: "funding"}
 ---
+
+![Peter Rose ](images/PeterRose.jpg)
 
 # Peter Rose (Co-PI)
 - Ph.D.
