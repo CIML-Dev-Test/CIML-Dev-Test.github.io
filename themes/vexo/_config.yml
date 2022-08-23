@@ -38,7 +38,7 @@ google_analytics:
 disqus_shortname:
 
 about:
-    banner: ""
+    banner: "images/logo.png"
     avatar: https://avatars.githubusercontent.com/u/46249297?s=200&v=4
     description: "San Diego Supercomputer Center"
     github_username: CIML-Dev-Test
