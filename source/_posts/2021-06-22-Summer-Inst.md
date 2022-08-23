@@ -1,5 +1,5 @@
 ---
-title: Summer Institute
+title: SDSC CIML 2021 Summer Institute
 type: Event
 event: Summer Institute
 tags:
@@ -10,7 +10,7 @@ tags:
 date: 2021-06-22
 ---
 
-<h3> SDSC Cyberinfrastructure-Enabled Machine Learning Summer Institute</h3>
+<h3>SDSC Cyberinfrastructure-Enabled Machine Learning Summer Institute</h3>
 <p>
 Tuesday, June 22, 2021 - Thursday, June 24, 2021<br>
 <em>This event will be held remotely</em>

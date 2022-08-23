@@ -1,5 +1,5 @@
 ---
-title: SDSC Cyberinfrastructure-Enabled Machine Learning 2022 Summer Institute
+title: SDSC CIML 2022 Summer Institute
 type: Event
 event: Summer Institute
 tags:
