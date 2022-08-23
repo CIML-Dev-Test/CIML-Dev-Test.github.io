@@ -1,9 +1,5 @@
 ---
 title: Mary Thomas
-sidebar: 
-  - {name: "Our Mission", link: "mission"}
-  - {name: "The Team", link: "team"}
-  - {name: "Funding", link: "funding"}
 ---
 
 # Mary Thomas (PI)
