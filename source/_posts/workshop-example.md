@@ -4,8 +4,12 @@ type: Event
 event: Workshop
 tags:
     - CIML
+    - Workshop
+    - Machine Learning
+    - ML
+    - AI
 ---
 
-<h3>This Is An Example Workshop:</h3>
-Let's go!
+<h3>This Is An Example of a Workshop:</h3>
+
 
